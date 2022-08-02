@@ -1,0 +1,68 @@
+#{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color: darkgreen;
+
+}
+a:hover {
+	text-decoration: underline;
+	color: red
+}
+li {
+	display: inline-block;
+	color: white;
+	padding-top: 10px;
+	padding-left: 10px;
+height: 20px;
+
+}
+ul{
+float: right;	
+color: red;
+}
+}
+#wrap{
+	 border:solid 3px;
+	 width: 300px;
+	 margin: 0 auto;
+	 text-align: center;
+	}
+#nheader{
+background-image: url('images/hock.jpg');
+  	border: solid 6px;
+	background-attachment: fixed;
+	padding: 30px;
+}
+h1{
+	color: darkgreen;
+}
+#npara{
+ background-color:#2f3542;
+ border: solid 4px;
+ background-attachment: fixed;
+ height: 460px;
+ padding-top: 30px;
+}
+.text_para {
+color:black;
+font-size: 20px;
+font-family:;
+float: rights;
+}
+.redcolor{
+  color:red;
+}
+#footer{
+	color:darkred ;
+	height: 20px;
+	background-color: darkred;
+	padding: 70px;
+}
+h2 {
+	color: darkred;
+}
+
+}
